@@ -1,0 +1,10 @@
+name: carrier_properties
+account: larui529
+server: shinyapps.io
+appId: 148269
+bundleId: 664974
+url: https://larui529.shinyapps.io/carrier_properties/
+when: 1483136227.39795
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: plot1.R
